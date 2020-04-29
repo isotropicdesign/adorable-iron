@@ -69,7 +69,12 @@ sections:
   background_style: style4
   component: Icons
   type: icons
-  subtitle: "![](/images/Shape 1.png)"
+  subtitle: |-
+    ![](/images/Shape 1.png)
+
+    ***
+
+    <iframe src=https://isotropic.isoforms.co/form/16></iframe>
   feature_icons: []
 - type: cta
   template: cta
