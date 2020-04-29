@@ -17,12 +17,11 @@ banner:
 sections:
 - type: icons
   template: icons
-  title: |-
-    Arcu aliquet vel lobortis ata nisl
-    eget augue amet aliquet nisl cep donec
-  subtitle: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
-    \ \nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-    \ "
+  title: Your Online Appearance Is Make Or Break
+  subtitle: "As a design oriented business, potential clients are judging from the
+    second they land on your website. Not only should your site be a digital portfolio,
+    it should be well designed. That's where we come in. \n\nBuild credibility, make
+    a great first impression, land more clients."
   section_id: one
   background_style: style1
   feature_icons:
