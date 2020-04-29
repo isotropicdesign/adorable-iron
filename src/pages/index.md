@@ -63,39 +63,27 @@ sections:
       to be unique too. "
     home_img_path: "/images/Computer-Min.png"
   component: Spotlights
-- type: features
-  template: features
-  title: Accumsan mus tortor nunc aliquet
-  subtitle: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
-    \ \nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper."
-  section_id: three
-  background_style: style3
-  features:
-  - title: Arcu accumsan
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-paper-plane-o
-  - title: Ac Augue Eget
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-laptop
-  - title: Mus Scelerisque
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-code
-  - title: Mauris Imperdiet
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-headphones
-  - title: Aenean Primis
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-heart-o
-  - title: Tortor Ut
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-flag-o
-  component: Features
+- template: icons
+  title: A Robust Portfolio Of Awesome Websites And Happy Clients
+  section_id: one
+  background_style: style1
+  component: Icons
+  type: icons
+  subtitle: |-
+    ![](https://cdn.isotropic.co/wp-content/uploads/2019/12/03040949/Fivecat-768x528.png.webp)
+
+    Fivecat Studio
+
+    We built a digital architecture portfolio for Westchester NY's leading high end residential firm.
+
+    ![](https://cdn.isotropic.co/wp-content/uploads/2019/12/03040951/Dwell-768x528.png.webp)
+
+    Dwell Archi
+
+    We built a user friendly portfolio website for one of Tennessee's newest architecture firms.
+
+    ![](/images/Portfolio entry1.png)
+  feature_icons: []
 - type: cta
   template: cta
   title: Arcue ut vel commodo
