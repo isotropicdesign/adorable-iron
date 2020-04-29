@@ -54,12 +54,14 @@ sections:
 
       On the backend, architects should be able to add new portfolio entries, publish blog posts and change page text by themselves. We build our sites on a Wordpress CMS and design the backend to be as user friendly as the frontend.
     home_img_path: "/images/Computer.png"
-  - title: |-
-      Augue eleifend aliquet
-      sed condimentum
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
-    home_img_path: images/pic03.jpg
+  - title: 'A Completely Custom Experience '
+    text: "[Isotropic Design](isotropic.co \"Main Agency Website\") is a vertically
+      integrated digital agency. Our cornerstone service is web design, and we've
+      been doing it since 2017. Your Isotropic website is a completely custom digital
+      asset designed to match your firm's needs. \n\nEach practice is unique - you
+      have your own methodology and your own clients.  Your digital solution needs
+      to be unique too. "
+    home_img_path: "/images/Computer-Min.png"
   component: Spotlights
 - type: features
   template: features
