@@ -41,12 +41,13 @@ sections:
   section_id: two
   background_style: style2
   spotlights:
-  - title: |-
-      Magna primis lobortis
-      sed ullamcorper
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
-    home_img_path: images/pic01.jpg
+  - title: HyperLocal SEO
+    text: "Connect with local clients and build credibility. \n\nData shows that web
+      visitors think the first few websites at the top of the SERPs are amongst the
+      more authentic businesses in their industry.\n\nSEO-generated **inbound** leads
+      have a staggering 14.6% close rate, while **outbound** leads have a 1.7% close
+      rate. "
+    home_img_path: "/images/MarketBot.png"
   - title: |-
       Tortor dolore feugiat
       elementum magna
