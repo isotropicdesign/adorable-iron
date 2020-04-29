@@ -72,13 +72,13 @@ sections:
   subtitle: |-
     ![](https://cdn.isotropic.co/wp-content/uploads/2019/12/03040949/Fivecat-768x528.png.webp)
 
-    Fivecat Studio
+    **Fivecat Studio**
 
     We built a digital architecture portfolio for Westchester NY's leading high end residential firm.
 
     ![](https://cdn.isotropic.co/wp-content/uploads/2019/12/03040951/Dwell-768x528.png.webp)
 
-    Dwell Archi
+    **Dwell Archi**
 
     We built a user friendly portfolio website for one of Tennessee's newest architecture firms.
 
