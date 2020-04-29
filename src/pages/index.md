@@ -23,7 +23,7 @@ sections:
     it should be well designed. That's where we come in. \n\nBuild credibility, make
     a great first impression, land more clients."
   section_id: one
-  background_style: style1
+  background_style: style2
   feature_icons:
   - title: Lorem
     icon: fa-diamond
@@ -69,20 +69,7 @@ sections:
   background_style: style4
   component: Icons
   type: icons
-  subtitle: |-
-    ![](https://cdn.isotropic.co/wp-content/uploads/2019/12/03040949/Fivecat-768x528.png.webp)
-
-    **Fivecat Studio**
-
-    We built a digital architecture portfolio for Westchester NY's leading high end residential firm.
-
-    ![](https://cdn.isotropic.co/wp-content/uploads/2019/12/03040951/Dwell-768x528.png.webp)
-
-    **Dwell Archi**
-
-    We built a user friendly portfolio website for one of Tennessee's newest architecture firms.
-
-    ![](/images/Portfolio entry1.png)
+  subtitle: "![](/images/Shape 1.png)"
   feature_icons: []
 - type: cta
   template: cta
