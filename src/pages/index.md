@@ -66,7 +66,7 @@ sections:
 - template: icons
   title: A Robust Portfolio Of Awesome Websites And Happy Clients
   section_id: one
-  background_style: style1
+  background_style: style4
   component: Icons
   type: icons
   subtitle: |-
