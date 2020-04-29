@@ -48,12 +48,12 @@ sections:
       have a staggering 14.6% close rate, while **outbound** leads have a 1.7% close
       rate. "
     home_img_path: "/images/MarketBot.png"
-  - title: |-
-      Tortor dolore feugiat
-      elementum magna
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
-    home_img_path: images/pic02.jpg
+  - title: Ease Of Use
+    text: |-
+      Your clients need to be able to quickly review your work, read about your firm and contact you for more information. Our sites do that by leveraging simplicity and good design.
+
+      On the backend, architects should be able to add new portfolio entries, publish blog posts and change page text by themselves. We build our sites on a Wordpress CMS and design the backend to be as user friendly as the frontend.
+    home_img_path: "/images/Computer.png"
   - title: |-
       Augue eleifend aliquet
       sed condimentum
